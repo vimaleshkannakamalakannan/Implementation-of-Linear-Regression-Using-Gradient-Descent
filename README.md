@@ -76,7 +76,8 @@ print(f"Final bias (b): {b}")
 ```
 
 ## Output:
-<img width="1232" height="576" alt="image" src="https://github.com/user-attachments/assets/0d5ededd-1596-4e6b-bc74-a284f621b766" />
+<img width="1232" height="670" alt="image" src="https://github.com/user-attachments/assets/98ecbd02-1f2e-4ad7-a0e3-059ce81c8339" />
+
 
 
 
