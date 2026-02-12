@@ -8,10 +8,17 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import all necessary packages and dataset that you need to implement Logistic Regression.
+
+2. Copy the actual dataset and remove fields which are unnecessary.
+
+3. Then select dependent variable and independent variable from the dataset.
+
+4. And perform Logistic Regression.
+
+5. print the values of confusion matrix, accuracy, Classification report to find whether the student is placed or
+
+not.
 
 ## Program:
 ```
